@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "201217405521",
+    "project_id": "auth-backend-ea27c",
+    "storage_bucket": "auth-backend-ea27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201217405521:android:77d98653ecfb3cb61abe70",
+        "android_client_info": {
+          "package_name": "com.dorcas.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201217405521-7ipmupp5sh2fdosdpfi4u1fm3oj7okko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dorcas.auth_app",
+            "certificate_hash": "f0ac93aebb155172dc45caa81c0e0313ec5689fa"
+          }
+        },
+        {
+          "client_id": "201217405521-ot56ec1au6bl4gupi20jnmf6nbkuuchr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU-4-23U9ShRpzLNOa9gO4PFs1-uRaELQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201217405521-ot56ec1au6bl4gupi20jnmf6nbkuuchr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
